@@ -1,0 +1,17 @@
+:root {
+  --primary-text-color: #fff;
+  --background-color: #111;
+  --line-color: #444;
+  --button-bg-color: #000;
+  --button-text-color: #fff;
+  --circle-size: 100px;
+  --line-thickness: 4px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--background-color);
+  color: var(--primary-text-color);
+  font-family: 'Arial', sans-serif;
+}
